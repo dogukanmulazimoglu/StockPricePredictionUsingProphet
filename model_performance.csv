@@ -1,0 +1,7 @@
+Date,Ticker,Best Params,MSE,RMSE,MAPE
+2024-08-19 11:48:38,TSLA,"{'changepoint_prior_scale': 0.28033673797385544, 'seasonality_mode': 'multiplicative', 'seasonality_prior_scale': 2.691928269125572}",76.51556241845071,8.747317441275966,
+2024-08-19 11:50:31,AAPL,"{'changepoint_prior_scale': 0.009533431687806952, 'seasonality_mode': 'multiplicative', 'seasonality_prior_scale': 0.19633071646674127}",3.455868681634502,1.8589966868271988,
+2024-08-19 11:51:48,GOOGL,"{'changepoint_prior_scale': 0.00417875720963139, 'seasonality_mode': 'multiplicative', 'seasonality_prior_scale': 4.05886170713471}",4.580628583222793,2.1402403096901974,
+2024-08-19 11:54:16,MSFT,"{'changepoint_prior_scale': 0.02999182994577075, 'seasonality_mode': 'multiplicative', 'seasonality_prior_scale': 9.36018962195794}",19.346902625063382,4.398511410132226,
+2024-08-19 11:55:18,AMZN,"{'changepoint_prior_scale': 0.2782012610337699, 'seasonality_mode': 'multiplicative', 'seasonality_prior_scale': 8.09763040584164}",7.293351907260233,2.7006206522316742,
+2024-08-19 11:56:11,META,"{'changepoint_prior_scale': 0.038787579380193886, 'seasonality_mode': 'multiplicative', 'seasonality_prior_scale': 0.46560604827910185}",53.82274286537079,7.336398494177561,

@@ -1,0 +1,11 @@
+pandas
+numpy
+matplotlib
+scikit-learn
+prophet
+yfinance
+ta
+streamlit
+plotly
+hyperopt
+logging
